@@ -88,18 +88,15 @@
 | **2023年10月〜2025年3月** | **BuzzEC/Buzzify/チョク採<br>リプレイスプロジェクト** | **概要・成果** | 既存AdSISTアプリのクローン・カスタマイズ開発<br>• 累計ユーザー数2万人突破<br>• 重大障害ゼロでリリース<br>• TikTok広告導入、One Pixel機能実装 |
 | | | **技術スタック** | TypeScript, PHP, Vue.js, Laravel, PostgreSQL, BitBucket Pipeline, Retool |
 | | | **規模・役割** | PJ全体: 14名 / **役割**: UI開発責任者 |
-| **2023年3月〜2025年3月** | **AI機能統合** | **概要・成果** | ChatGPTを活用した広告テキスト生成機能開発<br>• 90%以上の広告が初期テキスト生成にAI利用<br>• URL分析による自動コンテンツ提案機能 |
-| | | **技術スタック** | TypeScript, PHP, Vue.js, Laravel, PostgreSQL, MongoDB, BitBucket Pipeline |
-| | | **規模・役割** | PJ全体: 1名 / **役割**: 提案〜実装 |
 | **2023年3月〜7月** | **UI全面刷新・Vue3移行** | **概要・成果** | アプリUI再設計とVue3アップデート<br>• 予定5ヶ月を3.5ヶ月で完了<br>• 顧客問い合わせ数減少、ロード時間短縮 |
 | | | **技術スタック** | TypeScript, PHP, Vue.js, Laravel, PostgreSQL, MongoDB, BitBucket Pipeline |
 | | | **規模・役割** | PJ全体: 3名 / **役割**: PJ責任者・進捗管理・UI開発 |
+| **2022年12月〜2023年1月** | **AI機能統合** | **概要・成果** | ChatGPTを活用した広告テキスト生成機能開発<br>• 90%以上の広告が初期テキスト生成にAI利用<br>• URL分析による自動コンテンツ提案機能 |
+| | | **技術スタック** | TypeScript, PHP, Vue.js, Laravel, PostgreSQL, MongoDB, BitBucket Pipeline |
+| | | **規模・役割** | PJ全体: 1名 / **役割**: 提案〜実装 |
 | **2022年5月〜7月** | **WordPressプラグイン開発** | **概要・成果** | AdSISTアプリのWordPressプラグイン開発<br>• リリース直後に約20名の新規ユーザー獲得<br>• WordPress経由での導入促進 |
 | | | **技術スタック** | PHP, JavaScript, WordPress, Laravel, MongoDB |
 | | | **規模・役割** | PJ全体: 2名 / **役割**: UI開発・タグ設定フロー |
-| **2025年6月** | **HubSpot-Shopify連携拡張機能** | **概要・成果** | 営業チームのプラットフォーム移行支援<br>• HubSpotからShopifyへの顧客データ同期自動化<br>• 購入・返金処理のワンストップ管理実現<br>• 1週間で開発完了、安定稼働中 |
-| | | **技術スタック** | React, HubSpot SDK, Shopify GraphQL API, HubSpotホスティング |
-| | | **規模・役割** | PJ全体: 1名 / **役割**: フルスタック開発 |
 | **2022年1月〜3月** | **LINE広告配信サービス導入** | **概要・成果** | 4プラットフォームでのLINE広告配信機能構築<br>• LINE広告経由流入が全体の約20%まで成長<br>• ランディングページ制作 |
 | | | **技術スタック** | Vue.js, Laravel, MongoDB, BitBucket Pipeline |
 | | | **規模・役割** | PJ全体: 3名 / **役割**: UI開発・広告フロー・LP制作 |

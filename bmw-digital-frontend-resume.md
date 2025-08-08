@@ -16,22 +16,19 @@ Senior Software Engineer with 5+ years leading front-end projects and applicatio
 
 ### Senior Software Engineer | Corekara Inc. | Tokyo | August 2020 - Present
 
-**Individual Contributor - Digital Projects**
-- Independently managed digital transformation projects for 5+ enterprise clients, handling end-to-end project lifecycle from requirements gathering to production deployment
+**Solution Engineer**
 - Single-handedly migrated 30,000+ products across 5 e-commerce platforms (Shopserve, FutureShop, Rakuten, Colorme to Shopify) with zero downtime
-- Collaborated with sales teams to gather business requirements and provided daily progress updates through structured communication
-- Created comprehensive technical documentation using Notion and README standards, with OpenAPI specifications for all APIs
+- Built React-based HubSpot extension serving 40+ sales team members, syncing 1,000+ company records between HubSpot and Shopify
+- Developed Python automation tools for data processing and migration workflows, reducing manual effort by 80%
 
 **Application Development & Operations**
 - Developed and maintain advertising management platform connecting EC stores (Colorme, Makeshop, Shopify, FutureShop) with ad platforms (Facebook, Google, Yahoo, LINE, TikTok)
-- Built React-based HubSpot extension serving 40+ sales team members, syncing 1,000+ company records between HubSpot and Shopify
 - Achieved 95% performance improvement (10s to 500ms page load time) through database query optimization
 - Monitor production applications using Sentry, Google Analytics, and PocketBase request logs
 - Resolved critical production incident involving duplicate payment processing using CloudWatch logs and systematic debugging
 
 **Technical Innovation**
 - Pioneered AI integration using ChatGPT API for automated advertisement content generation, adopted by 90% of platform users
-- Developed Python automation tools for data processing and migration workflows, reducing manual effort by 80%
 - Implemented responsive front-end solutions using Vue.js 3 and modern CSS frameworks, improving mobile user experience
 
 ### Key Projects
