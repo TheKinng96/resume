@@ -82,7 +82,7 @@
 **技術スタック**
 - フロントエンド：SvelteKit（Vercel）
 - バックエンド：NestJS（自社VPS・Docker / Redis / PostgreSQL）
-- API連携：カラーミーOAuth、スクリプトタグ埋め込み
+- API連携：カラーミーOAuth、スクリプトタグ埋め込み（Cloudflare R2で配信）
 
 ### Illumenza Points（2025年〜）
 
@@ -93,7 +93,7 @@
 - 購入でポイント付与・特典交換のルール設定が可能
 - カラーミーOAuth・スクリプトタグ連携
 
-**技術スタック**: SvelteKit（Vercel）、NestJS（自社VPS・Docker / Redis / PostgreSQL）、カラーミーAPI
+**技術スタック**: SvelteKit（Vercel）、NestJS（自社VPS・Docker / Redis / PostgreSQL）、カラーミーAPI、Cloudflare R2
 
 ### Mostra.vip（2025年〜）
 [mostra.vip](https://mostra.vip)
