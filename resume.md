@@ -14,9 +14,9 @@
 
 2020年8月、株式会社これからに入社し、広告管理プラットフォーム開発に従事。EC店舗（カラーミー、Makeshop、Shopify、FutureShop）と広告媒体（Facebook、Google、Yahoo、LINE、TikTok）を接続するシステムを構築・運用しています。
 
-5年間でジュニアフロントエンドエンジニアからシニアソフトウェアエンジニアへ成長。現在はクライアント向けソリューション開発を主に担当し、5社の大規模ECプラットフォーム移行（計30,000商品）を成功させました。特筆すべきは、ChatGPTリリース2週間後にAI広告文生成機能を独自実装し、90%以上の利用率を達成したことです。
+6年間でジュニアフロントエンドエンジニアからシニアソフトウェアエンジニアへ成長。5社の大規模ECプラットフォーム移行（計30,000商品）を成功させ、2026年はチョク採向けATSの開発リード、自ら企画した社内ツール（広告ギャラリー、広告バナー生成）の開発を担当。現在はストア移行をClaudeスキルで仕組み化しています。特筆すべきは、ChatGPTリリース2週間後にAI広告文生成機能を独自実装し、90%以上の利用率を達成したことです。
 
-2024年12月、カラーミー事業者向けSaaS「Illumenza」を創業。ゲーミフィケーションを活用したクーポンプラットフォーム「Illumenza Coupon」を公開し、約30名のユーザーに利用されています。現在はポイント型ロイヤルティアプリ「Illumenza Points」を開発中です。
+2024年12月、カラーミー事業者向けSaaS「Illumenza」を創業。ゲーミフィケーションを活用したクーポンプラットフォーム「Illumenza Coupon」を公開し、累計40名のユーザーに利用されています。2026年9月にはミッション型ロイヤルティアプリ「[会員ステージ](https://app.shop-pro.jp/apps/984)」をカラーミーアプリストアで公開し、3名のユーザーに利用されています。
 
 ## 職務経歴
 
@@ -35,9 +35,21 @@
 
 #### 主な取り組み
 
-**現在の業務（2026年1月〜）：フルスタックWebエンジニア — ATS**
-- チョク採向けATS（採用管理システム）の開発・機能拡張（Next.js + NestJS）
-- チョク採システムへの継続的な機能追加
+**現在の業務（2026年10月〜）：クライアントソリューション開発 — ストア移行**
+- カラーミー→Shopifyストア移行
+- 移行要件・ルール・データマッピングをClaudeスキルとして整備・検証し、次回以降の移行を1リクエストで実行可能に
+
+**広告ギャラリーアプリ（2026年9月）**
+- 自ら企画し対象部署へ提案・プロトタイプ作成、開発完了後に納品
+- Meta APIでビジネスアカウント配下の全広告をクリエイティブ（アセット）単位で表示、パフォーマンスと実際の広告プレビューを確認可能（Next.js + NestJS）
+- 1,000件以上の広告を同時運用するコンサルチーム向け、チームコミュニケーション機能・簡易広告ランキング機能を搭載
+
+**広告バナー生成アプリ（2026年6月〜8月）**
+- 自ら企画し営業・コンサル部門へ提案、広告バナーを大量生成するツールをプロトタイプ（Next.js + NestJS、Gemini API・OpenAI API）
+- 試験運用の結果、業務フローとの適合性が低く検証段階で終了
+
+**フルスタックWebエンジニア — ATS（2026年1月〜3月）**
+- チョク採向けATS（採用管理システム）の開発（Next.js + NestJS、2名チームの技術リード、完了）
 
 **クライアントソリューション開発（2025年3月〜12月）**
 - ECプラットフォーム移行プロジェクト（Shopserve、FutureShop、楽天、カラーミー→Shopify）
@@ -58,12 +70,12 @@
 
 | 技術領域       | 技術要素                                                                      |
 | -------------- | ----------------------------------------------------------------------------- |
-| バックエンド   | Laravel PHP, NodeJs                                                           |
-| フロントエンド | TypeScript, VueJs, PrimeVue, yup, Vitest                                      |
+| バックエンド   | Laravel PHP, NodeJs, NestJS                                                   |
+| フロントエンド | TypeScript, VueJs, React, Next.js, PrimeVue, yup, Vitest                      |
 | DB             | MongoDB, PostgreSQL                                                           |
 | インフラ       | AWS（S3, lightsail, cloudfront）                                              |
-| その他         | Docker, Wordpress, Puppeteer, Playwright                                      |
-| 外部API        | Colorme, Makeshop, futureshop, Shopify, Facebook, Google, Yahoo, LINE, Tiktok |
+| その他         | Docker, Wordpress, Puppeteer, Playwright, Claude Code                         |
+| 外部API        | Colorme, Makeshop, futureshop, Shopify, HubSpot, Meta, Google, Yahoo, LINE, Tiktok, OpenAI, Gemini |
 
 など
 
@@ -72,7 +84,7 @@
 ### Illumenza Coupon（2024年12月〜）
 [illumenza.dev](https://illumenza.dev) | [Illumenza Coupon](https://coupon.illumenza.dev)
 
-**ステータス**: 公開済み・約30名のユーザーが利用中
+**ステータス**: 公開済み・累計40名のユーザーが利用
 
 **概要**
 - カラーミー事業者向けゲーミフィケーションクーポンSaaS（個人事業主として運営）
@@ -84,18 +96,19 @@
 - バックエンド：NestJS（自社VPS・Docker / Redis / PostgreSQL）
 - API連携：カラーミーOAuth、スクリプトタグ埋め込み（Cloudflare R2で配信）
 
-### Illumenza Points（2025年〜）
+### 会員ステージ - ロイヤルティ・顧客育成 -（2025年〜）
+[カラーミーアプリストア](https://app.shop-pro.jp/apps/984) | [デモ](https://points.illumenza.dev/demo) | [紹介動画](https://youtu.be/U5Z2wsUXZhQ)
 
-**ステータス**: 開発中（カラーミー向け）
+**ステータス**: 2026年9月 カラーミーアプリストアで公開・3名利用中（旧称: Illumenza Points）
 
 **概要**
-- カラーミー事業者向けポイント型ロイヤルティアプリ
-- 購入でポイント付与・特典交換のルール設定が可能
-- カラーミーOAuth・スクリプトタグ連携
+- 購入・SNSフォロー・レビュー・紹介などのミッションで「ショップマイル」を付与、ポイント・クーポン・商品と交換
+- 会員ステージを月間・年間・累計で自動判定
+- 友達紹介リンク、会員パネル、承認管理・インサイト、レシート読み取り、管理画面AIアシスタント
 
 **技術スタック**: SvelteKit（Vercel）、NestJS（自社VPS・Docker / Redis / PostgreSQL）、カラーミーAPI、Cloudflare R2
 
-### Mostra.vip（2025年〜）
+### Mostra.vip（2026年〜）
 [mostra.vip](https://mostra.vip)
 
 **ステータス**: ベータ版・招待制
@@ -142,7 +155,7 @@
 ## コンタクト
 
 - LinkedIn
-  - https://www.linkedin.com/in/gen-desu-489b7b126/
+  - https://www.linkedin.com/in/gen-thekinng96/
 - Wantedly
   - https://www.wantedly.com/id/fengyuan_yap
 
@@ -152,4 +165,4 @@
 
 Document format from [kawanamiyuu](https://gist.github.com/kawanamiyuu/e29611d3ae48c5b5af9bdf04a76dbed0)
 
-&copy; 2025 Yap Feng Yuan
+&copy; 2026 Yap Feng Yuan
