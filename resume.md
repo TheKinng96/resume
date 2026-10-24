@@ -35,6 +35,9 @@
 
 #### 主な取り組み
 
+**現在の業務（2026年10月〜）：チョク採 v2 — ATS連携**
+- 広告中心から採用プロセス中心へ刷新するチョク採・チョク採ATSの新バージョン（2026年8月始動）に参画、ATS連携を担当（4名チーム、Next.js + NestJS + PostgreSQL）
+
 **現在の業務（2026年10月〜）：クライアントソリューション開発 — ストア移行**
 - カラーミー→Shopifyストア移行
 - 移行要件・ルール・データマッピングをClaudeスキルとして整備・検証し、次回以降の移行を1リクエストで実行可能に
@@ -59,10 +62,10 @@
 
 **過去の実績**
 - 広告管理プラットフォーム（AdSIST、BuzzEC、Buzzify、Chokusai）の開発・運用
-- LINE広告API連携の実装（AdSIST、BuzzEC、チョク採）— LINE広告経由流入が全体の約20%に
+- 広告媒体API連携（Yahoo・Google・LINE）で広告CRUDをAPI連携からUIまで担当
+- LINE広告API連携の実装（AdSIST、BuzzEC、チョク採）— リリース初月に新規広告30件
 - ChatGPT APIを活用したAI広告文生成機能の実装（2023年3月、リリース2週間後）
-- Vue 2からVue 3への大規模移行プロジェクトリード（3名チーム、予定5ヶ月→3.5ヶ月で完了）
-- パフォーマンス最適化（ページ読み込み10秒→500ms）
+- 旧管理画面のパフォーマンス最適化（レポートページ読み込み10秒→500ms）
 - 自動テスト（Vitest、E2Eテスト）の導入・推進
 
 など
@@ -83,7 +86,7 @@
 ## 副業・サイドプロジェクト
 
 ### Illumenza Coupon（2024年12月〜）
-[illumenza.dev](https://illumenza.dev) | [Illumenza Coupon](https://coupon.illumenza.dev)
+[カラーミーアプリストア](https://app.shop-pro.jp/apps/909) | [illumenza.dev](https://illumenza.dev) | [Illumenza Coupon](https://coupon.illumenza.dev)
 
 **ステータス**: 公開済み・累計40名のユーザーが利用
 
@@ -100,7 +103,7 @@
 ### 会員ステージ - ロイヤルティ・顧客育成 -（2025年〜）
 [カラーミーアプリストア](https://app.shop-pro.jp/apps/984) | [デモ](https://points.illumenza.dev/demo) | [紹介動画](https://youtu.be/U5Z2wsUXZhQ)
 
-**ステータス**: 2026年9月 カラーミーアプリストアで公開・3名利用中（旧称: Illumenza Points）
+**ステータス**: 2026年9月 カラーミーアプリストアで公開・3名利用中
 
 **概要**
 - 購入・SNSフォロー・レビュー・紹介などのミッションで「ショップマイル」を付与、ポイント・クーポン・商品と交換

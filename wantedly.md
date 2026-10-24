@@ -40,6 +40,7 @@ https://github.com/TheKinng96/resume/blob/main/resume.md
 シニアソフトウェアエンジニア – 株式会社これから（2020年8月〜現在）
 
 ■ 現在の主要業務（2026年10月〜）
+- チョク採 v2（採用プロセス中心に刷新した新バージョン）のATS連携開発（4名チーム、Next.js、NestJS、PostgreSQL）
 - カラーミー→Shopifyストア移行
 - 移行要件・ルール・データマッピングをClaudeスキルとして整備・検証し、次回以降の移行を1リクエストで実行可能に
 
@@ -77,14 +78,9 @@ Meta APIでビジネスアカウント配下の全広告をクリエイティブ
 担当：データベースクエリおよびフロントエンドコンポーネントの最適化によるパフォーマンス改善。
 成果：ページ読み込み時間を10秒から500ミリ秒まで短縮。ユーザーのエンゲージメントおよび全体的な満足度が大幅に向上。
 
-- Vue 3移行とUI全面刷新（2023年3月〜7月）
-規模：3名チームをリード（フロントエンド開発を主導）
-技術選定：Vue 3、TypeScript、Yup、Vitest、PrimeVue
-成果：予定5ヶ月→3.5ヶ月で完了、顧客問い合わせ30%減、技術的負債を解消
-
 ■ 起業活動
 **Illumenza創業（2024年12月〜）**
-[illumenza.dev](https://illumenza.dev) | [Illumenza Coupon](https://coupon.illumenza.dev)
+[カラーミーアプリストア](https://app.shop-pro.jp/apps/909) | [illumenza.dev](https://illumenza.dev) | [Illumenza Coupon](https://coupon.illumenza.dev)
 - Illumenza Coupon：カラーミー事業者向けゲーミフィケーションクーポンSaaS（公開済み・累計40名利用）
   - スピンホイール形式で顧客データ（メール、名前、電話番号）を楽しく収集
   - カスタマイズ可能なテーマ、データエクスポート機能、分析ダッシュボード
