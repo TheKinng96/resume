@@ -43,3 +43,4 @@
 | Docker | 2020-08 | 6年2ヶ月 | インストールから設定可能 |
 | AWS | 2019-11 | 6年11ヶ月（必要な部分のみ） | EC2, S3, Cloudfront, Lightsail,Route53, Amplify等操作可能 |
 | 生成AI API (OpenAI, Gemini) | 2022-12 | 3年10ヶ月 | 広告文・画像生成機能の実装が可能 |
+| LINE広告API / LIFF | 2022-01 | 4年9ヶ月 | LINE広告API連携の実装、LIFFアプリのPoC開発が可能 |

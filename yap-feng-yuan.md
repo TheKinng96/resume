@@ -4,7 +4,7 @@ fengyuan.yap@gmail.com | [github.com/TheKinng96](https://github.com/TheKinng96) 
 
 # Profile
 
-Senior Software Engineer with 6+ years of experience managing digital projects and application operations. Expert in full-stack development, system integrations, and data migrations. Proven track record in leading complex projects including Vue 2→3 migration, AI feature implementation, and large-scale e-commerce platform migrations (30,000+ products). Proactively pitches and prototypes internal tools, such as a creative-level ad dashboard used by consultants managing 1,000+ ads. Founded Illumenza as personal side business, operating two live apps for Colorme merchants: Illumenza Coupon (40 users total) and 会員ステージ (Member Stage), a mission-based loyalty app released on the Colorme App Store in Sep 2026 (3 users). Specialized in React, Vue.js, Next.js, NestJS, TypeScript, and API integrations with platforms like Shopify, HubSpot, Meta, and generative AI APIs (OpenAI, Gemini).
+Senior Software Engineer with 6+ years of experience managing digital projects and application operations. Expert in full-stack development, system integrations, and data migrations. Proven track record in leading complex projects including Vue 2→3 migration, AI feature implementation, and large-scale e-commerce platform migrations (30,000+ products). Proactively pitches and prototypes internal tools, such as a creative-level ad dashboard used by consultants managing 1,000+ ads. Founded Illumenza as personal side business, operating two live apps for Colorme merchants: Illumenza Coupon (40 users total) and 会員ステージ (Member Stage), a mission-based loyalty app released on the Colorme App Store in Sep 2026 (3 users). Hands-on with the LINE platform: implemented LINE Ads API integration across AdSIST, BuzzEC, and Chokusai, and built a LINE storefront PoC (Illumenza LINE) on a LINE Official Account using LIFF auto-login and Messaging API push for personalized member promotions. Specialized in React, Vue.js, Next.js, NestJS, TypeScript, and API integrations with platforms like Shopify, HubSpot, Meta, LINE, and generative AI APIs (OpenAI, Gemini).
 
 # Experience
 
@@ -48,6 +48,7 @@ Senior Software Engineer – 株式会社これから (Aug 2020 - Present)
 
 **Software Engineer (Aug 2020 - Feb 2025)**
 - Developed and maintained advertising management platforms (AdSIST, BuzzEC, Buzzify, Chokusai) connecting EC stores with ad platforms (Facebook, TikTok, Google, LINE, Yahoo)
+- Implemented LINE Ads API integration for ad delivery across AdSIST, BuzzEC, and Chokusai — LINE ads grew to ~20% of total inflow
 - Led Vue 2→3 migration with full UI overhaul — 3-person team, delivered 5-month project in 3.5 months, reduced support tickets 30%
 - Implemented ChatGPT integration 2 weeks after OpenAI API first release — 90%+ user adoption, reduced ad creation time 70%
 - Full-stack development, performance optimization (page load 10s→500ms), and automated testing (Vitest, E2E)
@@ -80,6 +81,18 @@ Senior Software Engineer – 株式会社これから (Aug 2020 - Present)
 **Stack**: SvelteKit on Vercel, NestJS on self-hosted VPS (Docker, Redis, PostgreSQL), Colorme API, Cloudflare R2
 
 [App Store listing](https://app.shop-pro.jp/apps/984) | [points.illumenza.dev](https://points.illumenza.dev/demo) | [Feature Video](https://youtu.be/U5Z2wsUXZhQ)
+
+## Illumenza LINE (2026 - Present)
+[LINE Official Account @446fexmh](https://line.me/R/ti/p/@446fexmh)
+
+**Type**: LINE storefront app (Illumenza Colorme ecosystem) | **Status**: PoC
+
+**Overview**:
+- Frontend storefront built with LIFF (LINE Front-end Framework) on the Illumenza LINE Official Account — users are logged in automatically with their LINE account and browse the Colorme store inside LINE
+- Pushes personalized content and catalog-style promotional messages to all members via the Messaging API
+- Next step: bring 会員ステージ (loyalty/points) into LINE via LIFF
+
+**Stack**: LIFF, LINE Login, Messaging API, LINE Official Account, Colorme API
 
 ## Mostra.vip (2026 - Present)
 

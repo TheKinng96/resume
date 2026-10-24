@@ -16,7 +16,7 @@
 
 6年間でジュニアフロントエンドエンジニアからシニアソフトウェアエンジニアへ成長。5社の大規模ECプラットフォーム移行（計30,000商品）を成功させ、2026年はチョク採向けATSの開発リード、自ら企画した社内ツール（広告ギャラリー、広告バナー生成）の開発を担当。現在はストア移行をClaudeスキルで仕組み化しています。特筆すべきは、ChatGPTリリース2週間後にAI広告文生成機能を独自実装し、90%以上の利用率を達成したことです。
 
-2024年12月、カラーミー事業者向けSaaS「Illumenza」を創業。ゲーミフィケーションを活用したクーポンプラットフォーム「Illumenza Coupon」を公開し、累計40名のユーザーに利用されています。2026年9月にはミッション型ロイヤルティアプリ「[会員ステージ](https://app.shop-pro.jp/apps/984)」をカラーミーアプリストアで公開し、3名のユーザーに利用されています。
+2024年12月、カラーミー事業者向けSaaS「Illumenza」を創業。ゲーミフィケーションを活用したクーポンプラットフォーム「Illumenza Coupon」を公開し、累計40名のユーザーに利用されています。2026年9月にはミッション型ロイヤルティアプリ「[会員ステージ](https://app.shop-pro.jp/apps/984)」をカラーミーアプリストアで公開し、3名のユーザーに利用されています。また、LINE公式アカウント上でLIFF自動ログインとMessaging APIによる会員向け配信を備えたストアフロント「Illumenza LINE」のPoCを開発しています。
 
 ## 職務経歴
 
@@ -59,6 +59,7 @@
 
 **過去の実績**
 - 広告管理プラットフォーム（AdSIST、BuzzEC、Buzzify、Chokusai）の開発・運用
+- LINE広告API連携の実装（AdSIST、BuzzEC、チョク採）— LINE広告経由流入が全体の約20%に
 - ChatGPT APIを活用したAI広告文生成機能の実装（2023年3月、リリース2週間後）
 - Vue 2からVue 3への大規模移行プロジェクトリード（3名チーム、予定5ヶ月→3.5ヶ月で完了）
 - パフォーマンス最適化（ページ読み込み10秒→500ms）
@@ -75,7 +76,7 @@
 | DB             | MongoDB, PostgreSQL                                                           |
 | インフラ       | AWS（S3, lightsail, cloudfront）                                              |
 | その他         | Docker, Wordpress, Puppeteer, Playwright, Claude Code                         |
-| 外部API        | Colorme, Makeshop, futureshop, Shopify, HubSpot, Meta, Google, Yahoo, LINE, Tiktok, OpenAI, Gemini |
+| 外部API        | Colorme, Makeshop, futureshop, Shopify, HubSpot, Meta, Google, Yahoo, LINE, Tiktok, OpenAI, Gemini, LINE広告API, LIFF, Messaging API |
 
 など
 
@@ -107,6 +108,19 @@
 - 友達紹介リンク、会員パネル、承認管理・インサイト、レシート読み取り、管理画面AIアシスタント
 
 **技術スタック**: SvelteKit（Vercel）、NestJS（自社VPS・Docker / Redis / PostgreSQL）、カラーミーAPI、Cloudflare R2
+
+### Illumenza LINE（2026年〜）
+[LINE公式アカウント @446fexmh](https://line.me/R/ti/p/@446fexmh)
+
+**ステータス**: PoC
+
+**概要**
+- LINE公式アカウント「Illumenza」にLIFF（LINE Front-end Framework）で構築したストアフロント
+- LINEアカウントで自動ログインし、LINE上でカラーミーストアの商品閲覧が可能
+- Messaging APIで全会員へパーソナライズしたコンテンツやカタログ型のプロモーションメッセージを配信
+- 今後、会員ステージもLINE上で利用可能にする予定
+
+**技術スタック**: LIFF、LINEログイン、Messaging API、LINE公式アカウント、カラーミーAPI
 
 ### Mostra.vip（2026年〜）
 [mostra.vip](https://mostra.vip)

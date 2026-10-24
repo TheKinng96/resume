@@ -9,7 +9,7 @@
 6年間でジュニアフロントエンドエンジニアからシニアソフトウェアエンジニアへ成長。5社の大規模データ移行（計30,000商品）を成功させ、HubSpot-Shopify連携システムを構築。ChatGPTリリース2週間後にAI機能を独自実装し、90%以上の利用率を達成。2026年はチョク採ATSの開発リード、自ら企画した社内ツールの開発、ストア移行のClaudeスキル化を担当。
 
 ＜2024〜現在＞
-Illumenza創業。カラーミー事業者向けゲーミフィケーションクーポンSaaS「Illumenza Coupon」（累計40名利用）、ロイヤルティアプリ「会員ステージ」（2026年9月公開・3名利用中）を運営。
+Illumenza創業。カラーミー事業者向けゲーミフィケーションクーポンSaaS「Illumenza Coupon」（累計40名利用）、ロイヤルティアプリ「会員ステージ」（2026年9月公開・3名利用中）を運営。LINE公式アカウント上のLIFFストアフロント「Illumenza LINE」（自動ログイン・Messaging APIで会員向け配信）をPoC開発中。
 
 ■ ■ 職務経歴 ■ ■ 
 https://github.com/TheKinng96/resume/blob/main/resume.md
@@ -91,4 +91,5 @@ Meta APIでビジネスアカウント配下の全広告をクリエイティブ
 - 会員ステージ - ロイヤルティ・顧客育成 -：ミッション型ロイヤルティアプリ（2026年9月 [カラーミーアプリストア](https://app.shop-pro.jp/apps/984) で公開・3名利用中）
   - 紹介動画：https://youtu.be/U5Z2wsUXZhQ
   - 購入・SNSフォロー・レビュー・紹介などのミッションでマイル付与、会員ステージを自動判定
+- Illumenza LINE：LINE公式アカウント（[@446fexmh](https://line.me/R/ti/p/@446fexmh)）上のLIFFストアフロント（PoC）。LINEアカウントで自動ログインしてストアを閲覧、Messaging APIで全会員へパーソナライズ配信・カタログ型プロモーション。今後、会員ステージもLINE対応予定
 - 技術スタック：SvelteKit（Vercel）、NestJS（自社VPS・Docker / Redis / PostgreSQL）、Cloudflare R2
