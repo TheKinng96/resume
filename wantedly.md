@@ -13,7 +13,7 @@
 企画からリリース・運用まで一人で担う経験を、本業でのプロダクト提案や技術選定に還元しています。
 
 ■ ■ 職務経歴 ■ ■ 
-https://github.com/TheKinng96/resume/blob/main/resume.md
+https://gist.github.com/TheKinng96/a8f892fb74b787101dc436b4b8ea83c0
 
 # Ambition
 
