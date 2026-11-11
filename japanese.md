@@ -16,7 +16,7 @@
 
 2026年はチョク採向けATSの開発リードを完遂し、自ら企画・提案した社内向け広告バナー生成アプリ・広告ギャラリーアプリを開発。現在は採用プロセス中心に刷新するチョク採 v2のATS連携開発と、カラーミー→Shopify移行を担当し、Claudeスキルで移行要件・ルール・マッピングを仕組み化しています。
 
-個人の副業ブランディング「Illumenza」を立ち上げ、「Illumenza Coupon」（累計40名利用）、ロイヤルティアプリ「会員ステージ」（2026年9月カラーミーアプリストア公開・3名利用中）を運営。LINE領域では、AdSIST・BuzzEC・チョク採でのLINE広告API連携の実装経験に加え、LINE公式アカウント上でLIFF自動ログインとMessaging APIによる会員向けパーソナライズ配信を備えたストアフロント「Illumenza LINE」のPoCを開発。React、Vue.js、TypeScript、Next.js、NestJS、Go等のフルスタック開発を専門としています。
+就業時間外の副業・個人開発として「Illumenza」名義でカラーミー向けアプリを開発し、「Illumenza Coupon」（累計40名利用）、ロイヤルティアプリ「会員ステージ」（2026年9月カラーミーアプリストア公開・3名利用中）を公開・運用。LINE領域では、AdSIST・BuzzEC・チョク採でのLINE広告API連携の実装経験に加え、LINE公式アカウント上でLIFF自動ログインとMessaging APIによる会員向けパーソナライズ配信を備えたストアフロント「Illumenza LINE」のPoCを開発。React、Vue.js、TypeScript、Next.js、NestJS、Go等のフルスタック開発を専門としています。
 
 ## 活かせる経験・知識・技術
 
@@ -168,7 +168,7 @@
 ## 副業・サイドプロジェクト
 
 ### Illumenza Coupon（2024年12月〜）
-[カラーミーアプリストア](https://app.shop-pro.jp/apps/909) ／ [illumenza.dev](https://illumenza.dev) ／ [Illumenza Coupon](https://coupon.illumenza.dev) ／ [デモ](https://coupon.illumenza.dev/demo)
+[カラーミーアプリストア](https://app.shop-pro.jp/apps/909) ／ [illumenza.dev](https://illumenza.dev) ／ [Illumenza Coupon](https://coupon.illumenza.dev) ／ [デモ](https://coupon.illumenza.dev/demo) ／ [紹介動画](https://youtu.be/N59D3xGY4q4)
 
 **ステータス**: 公開済み・累計40名のユーザーが利用 ／ **事業形態**: 個人事業主として登録  
 **技術**: SvelteKit（Vercel）, NestJS（自社VPS・Docker / Redis / PostgreSQL）, カラーミーOAuth 2.0, スクリプトタグ埋め込み（Cloudflare R2で配信）

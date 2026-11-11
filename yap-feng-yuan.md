@@ -15,7 +15,7 @@ Full-stack engineer at 株式会社これから with about 6 years of experience
 
 In 2026, led development of the ATS for Chokusai to completion, and pitched and built internal tools of my own: an ad banner generator and an ad gallery app. Currently working on the ATS integration for Chokusai v2, a rebuild focused on the hiring process, and on Colorme → Shopify migration, where the migration requirements, rules, and data mapping are captured as a Claude skill.
 
-Founded Illumenza as a personal side business, operating Illumenza Coupon (40 users total) and the loyalty app 会員ステージ (released on the Colorme App Store in Sep 2026, 3 users). On the LINE platform, implemented LINE Ads API integration across AdSIST, BuzzEC, and Chokusai, and built a PoC storefront, Illumenza LINE, on a LINE Official Account with LIFF auto-login and personalized member messaging via the Messaging API. Specialized in full-stack development with React, Vue.js, TypeScript, Next.js, NestJS, and Go.
+As an off-hours side project under the Illumenza name, I build and run two Colorme apps: Illumenza Coupon (40 users total) and the loyalty app 会員ステージ (released on the Colorme App Store in Sep 2026, 3 users). On the LINE platform, implemented LINE Ads API integration across AdSIST, BuzzEC, and Chokusai, and built a PoC storefront, Illumenza LINE, on a LINE Official Account with LIFF auto-login and personalized member messaging via the Messaging API. Specialized in full-stack development with React, Vue.js, TypeScript, Next.js, NestJS, and Go.
 
 ## Relevant Experience and Skills
 
@@ -167,7 +167,7 @@ Business: full-stack web application development / Employees: 215 / Capital: ¥1
 ## Side Projects
 
 ### Illumenza Coupon (Dec 2024 - Present)
-[Colorme App Store](https://app.shop-pro.jp/apps/909) / [illumenza.dev](https://illumenza.dev) / [Illumenza Coupon](https://coupon.illumenza.dev) / [Demo](https://coupon.illumenza.dev/demo)
+[Colorme App Store](https://app.shop-pro.jp/apps/909) / [illumenza.dev](https://illumenza.dev) / [Illumenza Coupon](https://coupon.illumenza.dev) / [Demo](https://coupon.illumenza.dev/demo) / [Feature Video](https://youtu.be/N59D3xGY4q4)
 
 **Status**: Live, 40 users total / **Business**: Registered sole proprietor  
 **Tech**: SvelteKit (Vercel), NestJS (self-hosted VPS, Docker / Redis / PostgreSQL), Colorme OAuth 2.0, script tag embed (served via Cloudflare R2)
